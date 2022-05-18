@@ -9,7 +9,7 @@
     <img reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img reight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <img align="right" src="https://i.picasion.com/pic92/0c6b8edbbbadeac0c8cd8f2990b5186f.gif  ">
+    <img align="right" src="https://i.picasion.com/pic92/0c6b8edbbbadeac0c8cd8f2990b5186f.gif">
     </div>
   
   
